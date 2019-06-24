@@ -14,6 +14,7 @@
 		<module>springboot-websocket-demo</module>
 		<module>springboot-security-demo</module>
 		<module>springboot-login-demo</module>
+		<module>springboot-ratelimit-demo</module>
 		<module>springboot-multi-datasource-demo</module>
 	</modules>
 
