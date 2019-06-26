@@ -10,6 +10,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
+		<module>jdk-spi-demo</module>
 		<module>springboot-dubbo-demo</module>
 		<module>springboot-login-demo</module>
 		<module>springboot-multi-datasource-demo</module>
