@@ -10,7 +10,9 @@
 	<packaging>pom</packaging>
 
 	<modules>
+		<module>distributedlock-demo</module>
 		<module>jdk-spi-demo</module>
+		<module>my-mybatis</module>
 		<module>springboot-dubbo-demo</module>
 		<module>springboot-login-demo</module>
 		<module>springboot-multi-datasource-demo</module>
