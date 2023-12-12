@@ -20,6 +20,7 @@
 		<module>springboot-ratelimit-demo</module>
 		<module>springboot-security-demo</module>
 		<module>springboot-websocket-demo</module>
+		<module>springboot-websocket-demo2</module>
 		<module>zkclient-demo</module>
 	</modules>
 
